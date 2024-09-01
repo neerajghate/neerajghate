@@ -4,8 +4,14 @@
 
 ---
 
+## 👨‍💻 About Me
 
+I'm a passionate **Computer Science Master's student** focused on building innovative solutions in **Deep Learning**, **Computer Vision**, and **Machine Learning**. My projects range from human fall detection systems to customer segmentation using advanced algorithms. I'm actively seeking opportunities to apply my expertise in real-world applications.
 
+- 🌱 **Currently Learning:** Deep Learning, Advanced Computer Architecture
+- 💼 **Looking For:** Full-time opportunities in Software Development, AI/ML Engineering, and Data Science
+- 👯 **Open To:** Collaborations on Computer Vision, NLP, and Big Data projects
+- 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/neeraj-ghate/) | [Email](mailto:neeraj.ghate@ucdenver.edu)
 ---
 
 ## 📈 GitHub Dashboard
@@ -28,17 +34,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Computer Science Master's student** focused on building innovative solutions in **Deep Learning**, **Computer Vision**, and **Machine Learning**. My projects range from human fall detection systems to customer segmentation using advanced algorithms. I'm actively seeking opportunities to apply my expertise in real-world applications.
-
-- 🌱 **Currently Learning:** Deep Learning, Advanced Computer Architecture
-- 💼 **Looking For:** Full-time opportunities in Software Development, AI/ML Engineering, and Data Science
-- 👯 **Open To:** Collaborations on Computer Vision, NLP, and Big Data projects
-- 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/neeraj-ghate/) | [Email](mailto:neeraj.ghate@ucdenver.edu)
 
 ---
 
