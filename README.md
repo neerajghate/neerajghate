@@ -16,9 +16,16 @@ I'm a passionate **Computer Science Master's student** focused on building innov
 
 ## 📈 GitHub Dashboard
 
-### 🌟 Key Metrics
-![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajghate&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajghate&layout=compact&theme=radical)
+## 🌟 Key Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajghate&show_icons=true&theme=radical" alt="Neeraj's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajghate&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+</p>
+
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
