@@ -2,48 +2,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neerajghate&color=blueviolet)
 
-## 👨‍💻 About Me
-I'm a passionate **Computer Science Master's student** with a strong focus on developing innovative solutions in **Deep Learning**, **Computer Vision**, and **Machine Learning**. My projects range from human fall detection systems to customer segmentation using advanced algorithms. I am currently seeking opportunities to apply my expertise in real-world applications.
+---
 
-- 🌱 I’m currently honing my skills in **Deep Learning** and **Advanced Computer Architecture**.
-- 💼 Actively looking for full-time opportunities in **Software Development**, **AI/ML Engineering**, and **Data Science**.
-- 👯 I’m open to collaborating on projects related to **Computer Vision**, **NLP**, and **Big Data**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/neeraj-ghate/) | [Email](mailto:neeraj.ghate@ucdenver.edu)
+![Neeraj's GitHub Banner](https://images.unsplash.com/photo-1531497865143-31aeda085d54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzgwNzR8MHwxfGFsbHwxfHx8fHx8fHwxNjE5MjU3NDY0&ixlib=rb-1.2.1&q=80&w=1080) 
 
-## 🛠️ Technical Skills and Certifications
-**Tools:** Python, ReactJS, Apache Hadoop, Git, Docker, Jira, MySQL, MongoDB, Firebase, TensorFlow, Keras, PyTorch  
-**Skills:** Automation, Big Data Analysis, Neural Network Design, Transfer Learning, Data Cleaning, Sentiment Analysis, Subnetting and IP Addressing, Firewalls and VPN  
-**Certifications:** 
-- Front End Web Development with React (The Hong Kong University of Science and Technology)
-- Programming Foundations with JavaScript, HTML, and CSS (Duke University)
-- Front End UI Frameworks and Tools: Bootstrap 4 (The Hong Kong University of Science and Technology)
-- Neural Networks and Deep Learning (Deeplearning.ai)
-
-## 🚀 Projects
-
-### [Human Fall Detection using Computer Vision](https://github.com/neerajghate/human-fall-detection)
-![Python](https://img.shields.io/badge/Language-Python-blue)
-![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange)
-![OpenCV](https://img.shields.io/badge/Tool-OpenCV-red)
-![Accuracy](https://img.shields.io/badge/Accuracy-98%25-brightgreen)
-
-Developed a sophisticated system employing 2D ConvNet for Motion History Image (MHI) classification, achieving an impressive 98% accuracy in detecting human falls. Implemented real-time alert mechanisms to notify caretakers or family members in case of a fall event. Conducted comprehensive performance evaluations and fine-tuning to optimize the system's accuracy and reliability.
-
-### [Customer Segmentation using Machine Learning](https://github.com/neerajghate/customer-segmentation)
-![Python](https://img.shields.io/badge/Language-Python-blue)
-![K-means](https://img.shields.io/badge/Algorithm-K--means-green)
-![Data Analysis](https://img.shields.io/badge/Task-Data%20Analysis-yellow)
-
-Leveraged K-means clustering to categorize customers based on spending behaviors, resulting in actionable insights for business strategies. Conducted extensive data analysis and visualization to identify distinct customer segments and their unique preferences.
+---
 
 ## 📈 GitHub Dashboard
 
-### 🌟 Top Repositories
-- **[Human Fall Detection using Computer Vision](https://github.com/neerajghate/human-fall-detection):** A system that detects human falls using computer vision techniques.
-- **[Customer Segmentation using Machine Learning](https://github.com/neerajghate/customer-segmentation):** A project focused on segmenting customers based on their spending behaviors using K-means clustering.
-- **[Your Awesome Project 3](https://github.com/neerajghate/awesome-project-3):** A brief description of what this project is about.
-
-### 📊 GitHub Stats
+### 🌟 Key Metrics
 ![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajghate&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajghate&layout=compact&theme=radical)
 
@@ -62,10 +29,44 @@ Leveraged K-means clustering to categorize customers based on spending behaviors
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Computer Science Master's student** focused on building innovative solutions in **Deep Learning**, **Computer Vision**, and **Machine Learning**. My projects range from human fall detection systems to customer segmentation using advanced algorithms. I'm actively seeking opportunities to apply my expertise in real-world applications.
+
+- 🌱 **Currently Learning:** Deep Learning, Advanced Computer Architecture
+- 💼 **Looking For:** Full-time opportunities in Software Development, AI/ML Engineering, and Data Science
+- 👯 **Open To:** Collaborations on Computer Vision, NLP, and Big Data projects
+- 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/neeraj-ghate/) | [Email](mailto:neeraj.ghate@ucdenver.edu)
+
+---
+
+## 🚀 Projects
+
+### [Human Fall Detection using Computer Vision](https://github.com/neerajghate/human-fall-detection)
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange)
+![OpenCV](https://img.shields.io/badge/Tool-OpenCV-red)
+![Accuracy](https://img.shields.io/badge/Accuracy-98%25-brightgreen)
+
+A sophisticated system using 2D ConvNet for Motion History Image (MHI) classification, achieving 98% accuracy in detecting human falls. Implemented real-time alert mechanisms to notify caretakers or family members in case of a fall event. Conducted performance evaluations and fine-tuning to optimize the system's reliability.
+
+### [Customer Segmentation using Machine Learning](https://github.com/neerajghate/customer-segmentation)
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![K-means](https://img.shields.io/badge/Algorithm-K--means-green)
+![Data Analysis](https://img.shields.io/badge/Task-Data%20Analysis-yellow)
+
+Leveraged K-means clustering to categorize customers based on spending behaviors, resulting in actionable insights for business strategies. Extensive data analysis and visualization were conducted to identify distinct customer segments and their unique preferences.
+
+---
+
+
 ## 📫 Get in Touch
+
 Feel free to connect with me or check out my work:
 - **LinkedIn:** [Neeraj Ghate](https://www.linkedin.com/in/neeraj-ghate/)
 - **GitHub:** [neerajghate](https://github.com/neerajghate)
 - **Email:** neeraj.ghate@ucdenver.edu
 
-Thanks for visiting my profile, and let's collaborate on something amazing! 🚀
+Thanks for visiting my profile! Let's collaborate on something amazing! 🚀
