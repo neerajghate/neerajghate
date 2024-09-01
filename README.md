@@ -61,7 +61,6 @@ Leveraged K-means clustering to categorize customers based on spending behaviors
 
 Feel free to connect with me or check out my work:
 - **LinkedIn:** [Neeraj Ghate](https://www.linkedin.com/in/neeraj-ghate/)
-- **GitHub:** [neerajghate](https://github.com/neerajghate)
 - **Email:** neeraj.ghate@ucdenver.edu
 
-Thanks for visiting my profile! Let's collaborate on something amazing! 🚀
+Thanks for visiting my profile! 
