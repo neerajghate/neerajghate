@@ -6,12 +6,28 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Computer Science Master's student** focused on building innovative solutions in **Deep Learning**, **Computer Vision**, and **Machine Learning**. My projects range from human fall detection systems to customer segmentation using advanced algorithms. I'm actively seeking opportunities to apply my expertise in real-world applications.
+I'm a software developer working across **AI/ML**, **computer vision**, and **full-stack applications**. My current focus is **agentic AI and workflow automation**: connecting context, tools, and clear steps to turn ideas into useful software.
 
-- 🌱 **Currently Learning:** Deep Learning, Advanced Computer Architecture
+- 🤖 **Exploring:** Tool-using agents, orchestration, context and memory, and human-in-the-loop workflows
+- 🛠️ **Building:** Practical applications with clear interfaces, persistent data, and tested behavior
 - 💼 **Looking For:** Full-time opportunities in Software Development, AI/ML Engineering, and Data Science
-- 👯 **Open To:** Collaborations on Computer Vision, NLP, and Big Data projects
+- 👯 **Open To:** Collaborations on agentic applications, developer tools, Computer Vision, and NLP
 - 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/neeraj-ghate/) | [Email](mailto:neeraj.ghate@ucdenver.edu)
+
+## 🤖 Agentic AI & Workflows
+
+I'm interested in agents that can use tools, maintain task context, and make progress through a workflow with clear review points.
+
+My development workflow is:
+
+1. **Define:** Make the goal, constraints, and expected behavior concrete.
+2. **Ground:** Inspect the code, data, and relevant documentation.
+3. **Build:** Use focused tasks and tools to implement a reviewable change.
+4. **Verify:** Run tests, exercise user paths, and check failure cases.
+5. **Iterate:** Review the result, document tradeoffs, and refine it.
+
+Areas I'm exploring include reusable workflows, retrieval and memory, agent orchestration, evaluation, and reliable handoffs between people and tools.
+
 ---
 
 ## 📈 GitHub Dashboard
@@ -40,7 +56,7 @@ I'm a passionate **Computer Science Master's student** focused on building innov
 
 ## 🚀 Projects
 
-### [Human Fall Detection using Computer Vision](https://github.com/neerajghate/human-fall-detection)
+### [Human Fall Detection using Computer Vision](https://github.com/neerajghate/Fall_Detection_Computer_Vision)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange)
 ![OpenCV](https://img.shields.io/badge/Tool-OpenCV-red)
@@ -48,7 +64,7 @@ I'm a passionate **Computer Science Master's student** focused on building innov
 
 A sophisticated system using 2D ConvNet for Motion History Image (MHI) classification, achieving 98% accuracy in detecting human falls. Implemented real-time alert mechanisms to notify caretakers or family members in case of a fall event. Conducted performance evaluations and fine-tuning to optimize the system's reliability.
 
-### [Customer Segmentation using Machine Learning](https://github.com/neerajghate/customer-segmentation)
+### [Customer Segmentation using Machine Learning](https://github.com/neerajghate/Customer-Segmentation)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![K-means](https://img.shields.io/badge/Algorithm-K--means-green)
 ![Data Analysis](https://img.shields.io/badge/Task-Data%20Analysis-yellow)
